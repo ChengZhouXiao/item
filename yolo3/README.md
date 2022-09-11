@@ -18,8 +18,8 @@ torch == 1.2.0
 
 ## 文件下载
 训练所需的yolo_weights.pth可以在百度云下载。  
-链接:https://pan.baidu.com/s/1ncREw6Na9ycZptdxiVMApw
-提取码: 0322
+链接:https://pan.baidu.com/s/1AIJuiCgKRht-1qk-q1KXFg
+提取码：0322
 
 VOC数据集下载地址如下：  
 VOC2007+2012训练集    
